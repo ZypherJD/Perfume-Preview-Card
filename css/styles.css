@@ -121,12 +121,6 @@ body {
     }
 }
 
-@media (min-width: 1280px) {
-    .contenedor {
-        margin-top: 15%;
-    }
-}
-
 .contenido-principal {
     padding: 1.5rem;
     display: grid;
